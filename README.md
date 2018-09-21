@@ -37,11 +37,11 @@ You can read more about the Github API over [here](https://developer.github.com/
 ).
 
 ## Mockups
-![alt text](https://raw.githubusercontent.com/hiddenfounders/mobile-coding-challenge/master/mockup.png)
+![alt text](https://bitbucket.org/lawntap/mobile-coding-challenge/raw/2f99d9ea9905d898356d000717632ddd28e040bd/mockup.png)
 
 Here's what each element represents :
 
-![alt text](https://raw.githubusercontent.com/hiddenfounders/mobile-coding-challenge/master/row-explained.png)
+![alt text](https://bitbucket.org/lawntap/mobile-coding-challenge/raw/2f99d9ea9905d898356d000717632ddd28e040bd/row-explained.png)
 
 
 ## Technologies to use
