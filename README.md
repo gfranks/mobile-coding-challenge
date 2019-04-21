@@ -49,9 +49,11 @@ Choose whatever mobile platform you're most familiar with.
 
 * For iOS, feel free to use Swift or Objective-C. 
 * For Android, feel free to use Kotlin or Java.
+* Optionally you can use Flutter or React Native.
 
 ## Once you're done with the app
-* Put the code of your project on Github and send the repo to **contact@lawntap.com** and **garrett@lawntap.com**
+* Put the code of your project on Github or Bitbucket.
+* Send the link of the repo to **contact@lawntap.com**, **garrett@lawntap.com** and **daramust@lawntap.com**.
 
 ## Questions?
-If you have any questions or feedback, don't hesitate to contact us via **contact@lawntap.com** or **garrett@lawntap.com**
+If you have any questions or feedback, don't hesitate to contact us via **contact@lawntap.com**, **garrett@lawntap.com** or **daramust@lawntap.com**
